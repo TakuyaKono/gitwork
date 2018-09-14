@@ -8,4 +8,8 @@ bからc
 
 ccc
 
-aaa,bbb,ccc
+cからd
+
+ddd
+
+aaa,bbb,ccc,ddd
