@@ -1,39 +1,19 @@
 a
 
-aa
-
-aaa
-
 aからb
 
 b
-
-bb
-
-bbb
 
 bからc
 
 c
 
-cc
-
-ccc
-
 cからd
 
 d
-
-dd
-
-ddd
 
 dからe
 
 e
 
-ee
-
-eee
-
-aaa,bbb,ccc,ddd,eee
+a,b,c,d,e
