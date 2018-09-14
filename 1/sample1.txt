@@ -7,3 +7,5 @@ bbb
 bからc
 
 ccc
+
+aaa,bbb,ccc
